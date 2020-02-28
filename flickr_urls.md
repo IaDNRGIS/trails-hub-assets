@@ -1,3 +1,3 @@
 # Links to photos selected from Flickr
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://live.staticflickr.com/5509/12228344596_4e3303d1bf_b.jpg "Logo Title Text 1")
